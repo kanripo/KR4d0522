@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 俟菴集
-#+DATE: 2020-03-31 11:35:39.985916
+#+DATE: 2020-03-31 11:35:40.206740
 #+PROPERTY: ID KR4d0522
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 29
 <pb:KR4d0522_WYG_029-1a>¶
 　　欽定四庫全書¶
@@ -430,7 +430,7 @@
 　　與逢復亨¶
 ¶
 　　不知音問者今又一月餘矣僕曹兩歸自市皆言及見¶
-賢父子想只為聽對𤱶事耳不審此際辨明若何亦曾¶
+賢父子想只為聽對畎事耳不審此際辨明若何亦曾¶
 有折衷之言者否田土户婚非和不了與其費而爭不¶
 若費而買此鄉黨之同論也秋燥如此蕎麥亦不可擬¶
 <pb:KR4d0522_WYG_029-21b>¶
